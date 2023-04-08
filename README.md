@@ -4,7 +4,6 @@ This is a simple web application built using ReactJS that provides various utili
 
 Installation
 To install and run the application, follow these steps:
-
 Clone the repository to your local machine.
 Navigate to the project directory in your terminal.
 Run npm install to install all the dependencies.
